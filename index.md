@@ -10,7 +10,12 @@ Email: yuanjinliang AT bupt DOT edu DOT cn
 
 ## Selected Publications (* = equal contributions)
 
-- \[Conditionally accepted by [MobiCom'24](https://www.sigmobile.org/mobicom/2024/)] **Rethinking Mobile AI Ecosystem in the LLM Era** \[[pdf](https://arxiv.org/pdf/2308.14363.pdf)\] 
+- \[Conditionally accepted by [MobiCom'24](https://www.sigmobile.org/mobicom/2024/)] **Rethinking Mobile AI Ecosystem in the LLM Era** \[[pdf](https://arxiv.org/pdf/2308.14363.pdf)\]
+ **Jinliang Yuan\***, Chen Yang\*, Dongqi Cai\*, Shihe Wang, Xin Yuan, Zeling Zhang, Xiang Li, Dingge Zhang, Hanzi Mei, Xianqing Jia, Shangguang Wang, Mengwei Xu
+
+- \[[INFOCOM'23](https://infocom2023.ieee-infocom.org/)\] **Privacy as a Resource in Differentially Private Federated Learning** \[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10228953)\]
+  **Jinliang Yuan**, Shangguang Wang, Shihe Wang, Yuanchun Li, Xiao Ma, Ao Zhou, Mengwei Xu
+
 
 <!--- 
 **I care system software for addressing challenges raised by new workloads and new hardware. My recent work includes OS support for stream processing, for heterogeneous memory, and for wearable devices.**
