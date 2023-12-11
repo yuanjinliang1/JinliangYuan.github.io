@@ -1,6 +1,6 @@
 ## Jinliang Yuan  袁进良
 
-I'm a postdoctor at Tsinghua University, working with [Prof. Yunhao Liu](http://tns.thss.tsinghua.edu.cn/~yunhao/en.html). I received my doctoral and bachelor's degrees from Beijing University of Posts and Telecommunications (BUPT) in 2023 and 2016, co-advised by Prof. Shangguang Wang and Prof. Mengwei Xu. Additionally, I feel fortunate to receive remote guidance from Prof. Yuanchun Li in at Tsinghua University. Here is my [Curriculum Vitae](/cv.pdf).
+I'm a postdoctor at Tsinghua University, working with [Prof. Yunhao Liu](http://tns.thss.tsinghua.edu.cn/~yunhao/en.html). I received my doctoral and bachelor's degrees from Beijing University of Posts and Telecommunications (BUPT) in 2023 and 2016, co-advised by [Prof. Shangguang Wang](http://www.sguangwang.com/) and [Prof. Mengwei Xu](https://xumengwei.github.io/). Additionally, I feel fortunate to receive remote guidance from [Prof. Yuanchun Li](https://yuanchun-li.github.io/) in at Tsinghua University. Here is my [Curriculum Vitae](/cv.pdf).
 
 Email: yuanjinliang AT bupt DOT edu DOT cn
 
