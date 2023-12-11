@@ -38,7 +38,7 @@ Search over Heterogeneous Mobile Devices** \[[pdf](https://ieeexplore.ieee.org/s
 
 
 ## Awards
-- [IEEE Open Software Services Award](https://conferences.computer.org/services/2022/awards/oss_award.html) **End-to-end Federated Learning Platform** [github](https://github.com/UbiquitousLearning/End2end-Federated-Learning) 2022, IEEE SERVICES
+- [IEEE Open Software Services Award](https://conferences.computer.org/services/2022/awards/oss_award.html), **End-to-end Federated Learning Platform** \[[github](https://github.com/UbiquitousLearning/End2end-Federated-Learning)\], 2022, IEEE SERVICES
 
   **Jinliang Yuan**, Jiaxing Sun, Huibing Zhou, Mengwei Xu, Shangguang Wang
 
