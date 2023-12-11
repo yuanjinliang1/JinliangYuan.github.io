@@ -12,7 +12,7 @@ Email: yuanjinliang AT bupt DOT edu DOT cn
 
 - \[Conditionally accepted by [MobiCom'24](https://www.sigmobile.org/mobicom/2024/)] **Rethinking Mobile AI Ecosystem in the LLM Era** \[[pdf](https://arxiv.org/pdf/2308.14363.pdf)\]
 
- **Jinliang Yuan\***, Chen Yang\*, Dongqi Cai\*, Shihe Wang, Xin Yuan, Zeling Zhang, Xiang Li, Dingge Zhang, Hanzi Mei, Xianqing Jia, Shangguang Wang, Mengwei Xu
+  **Jinliang Yuan\***, Chen Yang\*, Dongqi Cai\*, Shihe Wang, Xin Yuan, Zeling Zhang, Xiang Li, Dingge Zhang, Hanzi Mei, Xianqing Jia, Shangguang Wang, Mengwei Xu
 
 - \[[INFOCOM'23](https://infocom2023.ieee-infocom.org/)\] **Privacy as a Resource in Differentially Private Federated Learning** \[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10228953)\]
 
@@ -25,7 +25,7 @@ Search over Heterogeneous Mobile Devices** \[[pdf](https://ieeexplore.ieee.org/s
 
 - \[[MobiSys'22](https://www.sigmobile.org/mobisys/2022/)\] **Melon: Breaking the Memory Wall for Resource-Efficient On-Device Machine Learning** \[[pdf](https://xumengwei.github.io/files/MobiSys22-Melo.pdf)\]
 
-  Qipeng Wang*, Mengwei Xu*, Chao Jin, Xinran Dong, **Jinliang Yuan**, Xin Jin, Gang Huang, Yunxin Liu, Xuanzhe Liu
+  Qipeng Wang\*, Mengwei Xu\*, Chao Jin, Xinran Dong, **Jinliang Yuan**, Xin Jin, Gang Huang, Yunxin Liu, Xuanzhe Liu
 
 - \[[ISSRE'23](https://issre.github.io/2023/)\] **Evaluating and Enhancing the Robustness of Federated Learning System against Realistic Data Corruption** \[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10301246)\]
 
