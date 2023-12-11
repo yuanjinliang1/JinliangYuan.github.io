@@ -6,9 +6,11 @@ Email: yuanjinliang AT bupt DOT edu DOT cn
 
 ## News!
 - \[2023-11\] Our paper on mobile foundation model was conditionally accepted by [MobiCom'24](https://www.sigmobile.org/mobicom/2024/)!
-- \[2023-05\] Honored to present one papers at [INFOCOM'23](https://infocom2023.ieee-infocom.org/))! 
+- \[2023-05\] Honored to present one papers at [INFOCOM'23](https://infocom2023.ieee-infocom.org/)! 
 
 ## Selected Publications (* = equal contributions)
+
+- \[Conditionally accepted by [MobiCom'24](https://www.sigmobile.org/mobicom/2024/)] **Rethinking Mobile AI Ecosystem in the LLM Era** \[[pdf](https://arxiv.org/pdf/2308.14363.pdf)\] 
 
 <!--- 
 **I care system software for addressing challenges raised by new workloads and new hardware. My recent work includes OS support for stream processing, for heterogeneous memory, and for wearable devices.**
