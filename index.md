@@ -21,13 +21,6 @@ I led a group of graduate/undergraduate students who are execited by building co
 
 See our [group page](http://xsel.rocks) for current students and projects.
 
-Virginia is for lovers! 
-
-<!---- https://dailyprogress.com/uva-aerial/image_aa006d50-0868-11e4-b818-001a4bcf6878.html The UVA campus in the Fall, [credits](https://dailyprogress.com/uva-aerial/image_aa006d50-0868-11e4-b818-001a4bcf6878.html) -->
-
-<img src="img\sunset_grounds_ss_18.jpg" alt="img/aerial.img" style="zoom: 33%;" />
-The UVA campus at sunset, with Blue Ridge mountains in the back. Credit: UVA.
-
 **Efforts on refreshing OS education** (UVA CS4414/CS6456). *Principles*: experience-based, with modern contents, and fun. *Summary*: four projects including an Arm64 baremetal kernel, multicore, trusted execution, and filesystem forensics.
 
 The first offering in Fall'20 as CS6456. Well received!  [Materials](https://github.com/fxlin/os-course/tree/master/docs); [student feedbacks](https://github.com/fxlin/os-course/blob/master/Report%20for%20CS%206456%20-%20001%20Operating%20Systems%20Xiaozhu%20Lin_3E9C532B-F1EE-494A-A44F-3B9766CB3912en-US.pdf); [schedule](https://github.com/fxlin/os-course/blob/master/cs6456-fall20-schedule.pdf)
@@ -72,7 +65,4 @@ My PhD work was on OS kernels for smartphones, e.g. the [K2 project](http://www.
 | [How do we work with undergrads in research?](/undergrad-research.pdf)
 | [To signature requesters](/sign.html)
 | [Name in Chinese](/img/name.jpg)
-
-<img src="img\forlovers.jpg" alt="img/forlovers.img" style="zoom:50%;" />
-We are one-hour from the gorgeous Shenandoah national park. Unlimited outdoor fun. Photo: http://virginia.org
 
