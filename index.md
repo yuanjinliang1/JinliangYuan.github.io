@@ -1,8 +1,10 @@
 ## Jinliang Yuan  袁进良
 
-Associate Prof. | William Wulf Faculty Fellow | UVA Computer Science | [CV](/cv.pdf) | [Contact](/contact.html)
+I'm a postdoctor at Tsinghua University, working with Prof. Yunhao Liu. I received my doctoral and bachelor's degrees from Beijing University of Posts and Telecommunications (BUPT) in 2023 and 2016, co-advised by Prof. Shangguang Wang and Prof. Mengwei Xu. Additionally, I feel fortunate to receive remote guidance from Prof. Yuanchun Li in at Tsinghua University. Here is my Curriculum Vitae(/cv.pdf).
 
-PhD (Rice '14); MS/BS ('08/'06 Tsinghua). Grew up in a small midwestern town in China. Before UVA, six great years at [Purdue](./leaving.pdf).
+Email: yuanjinliang AT bupt DOT edu DOT cn
+
+
 
 <!--- 
 **I care system software for addressing challenges raised by new workloads and new hardware. My recent work includes OS support for stream processing, for heterogeneous memory, and for wearable devices.**
