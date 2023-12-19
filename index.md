@@ -29,7 +29,7 @@ Search over Heterogeneous Mobile Devices** \[[pdf](https://ieeexplore.ieee.org/s
 
 - \[[ISSRE'23](https://issre.github.io/2023/)\] **Evaluating and Enhancing the Robustness of Federated Learning System against Realistic Data Corruption** \[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10301246)\]
 
-  Chen Yang, Yuanchun Li, Hao Lu, **Jinliang Yuan**, Qibo Sun, Shangguang Wang Mengwei Xu
+  Chen Yang, Yuanchun Li, Hao Lu, **Jinliang Yuan**, Qibo Sun, Shangguang Wang, Mengwei Xu
 
 ## Academic Service
 - PC member: \[[NCSC-edge'22](https://conf.ccf.org.cn/web/api/m9644563065535242241649985902214.action)\] 
@@ -39,8 +39,6 @@ Search over Heterogeneous Mobile Devices** \[[pdf](https://ieeexplore.ieee.org/s
 
 ## Awards
 - [IEEE Open Software Services Award](https://conferences.computer.org/services/2022/awards/oss_award.html), **End-to-end Federated Learning Platform** \[[github](https://github.com/UbiquitousLearning/End2end-Federated-Learning)\], 2022, IEEE SERVICES
-
-  **Jinliang Yuan**, Jiaxing Sun, Huibing Zhou, Mengwei Xu, Shangguang Wang
 
 ## Materials
 - \[[Awesome-Federated-Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning#Natural-language-Processing)\]
