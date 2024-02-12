@@ -20,9 +20,17 @@ Training on Mobile DSPs** \[[pdf](https://arxiv.org/pdf/2308.14363.pdf)\]
 
   **Jinliang Yuan\***, Chen Yang\*, Dongqi Cai\*, Shihe Wang, Xin Yuan, Zeling Zhang, Xiang Li, Dingge Zhang, Hanzi Mei, Xianqing Jia, Shangguang Wang, Mengwei Xu
 
+- \[[TMC'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)\] **Communication-Efficient Satellite-Ground Federated Learning through Progressive Weight Quantization** \[[pdf](https://ieeexplore.ieee.org/document/10415259)\]
+
+  Chen Yang\*, **Jinliang Yuan\***, Yaozong Wu, Qibo Sun, Ao Zhou, Shangguang Wang, Mengwei Xu
+
 - \[[INFOCOM'23](https://infocom2023.ieee-infocom.org/)\] **Privacy as a Resource in Differentially Private Federated Learning** \[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10228953)\]
 
   **Jinliang Yuan**, Shangguang Wang, Shihe Wang, Yuanchun Li, Xiao Ma, Ao Zhou, Mengwei Xu
+
+- \[[ISSRE'23](https://issre.github.io/2023/)\] **Evaluating and Enhancing the Robustness of Federated Learning System against Realistic Data Corruption** \[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10301246)\]
+
+  Chen Yang, Yuanchun Li, Hao Lu, **Jinliang Yuan**, Qibo Sun, Shangguang Wang, Mengwei Xu
 
 - \[[IEEE TBD'22](https://ieeexplore.ieee.org/document/9835002)\] **Resource-Aware Federated Neural Architecture
 Search over Heterogeneous Mobile Devices** \[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9973344)\]
@@ -32,14 +40,6 @@ Search over Heterogeneous Mobile Devices** \[[pdf](https://ieeexplore.ieee.org/s
 - \[[MobiSys'22](https://www.sigmobile.org/mobisys/2022/)\] **Melon: Breaking the Memory Wall for Resource-Efficient On-Device Machine Learning** \[[pdf](https://xumengwei.github.io/files/MobiSys22-Melo.pdf)\]
 
   Qipeng Wang\*, Mengwei Xu\*, Chao Jin, Xinran Dong, **Jinliang Yuan**, Xin Jin, Gang Huang, Yunxin Liu, Xuanzhe Liu
-
-- \[[ISSRE'23](https://issre.github.io/2023/)\] **Evaluating and Enhancing the Robustness of Federated Learning System against Realistic Data Corruption** \[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10301246)\]
-
-  Chen Yang, Yuanchun Li, Hao Lu, **Jinliang Yuan**, Qibo Sun, Shangguang Wang, Mengwei Xu
-
-- \[[TMC'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)\] **Communication-Efficient Satellite-Ground Federated Learning through Progressive Weight Quantization** \[[pdf](https://ieeexplore.ieee.org/document/10415259)\]
-
-  Chen Yang\*, **Jinliang Yuan\***, Yaozong Wu, Qibo Sun, Ao Zhou, Shangguang Wang, Mengwei Xu
 
 ## Academic Service
 - PC member: \[[NCSC-edge'22](https://conf.ccf.org.cn/web/api/m9644563065535242241649985902214.action)\] 
