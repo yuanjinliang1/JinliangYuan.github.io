@@ -5,10 +5,16 @@ I'm a postdoctor at Tsinghua University, working with [Prof. Yunhao Liu](http://
 Email: yuanjinliang AT bupt DOT edu DOT cn
 
 ## News!
+- \[2024-01\] Our paper on energy-efficient federated learning was conditionally accepted by [WWW'24](https://www2024.thewebconf.org/)!
 - \[2023-11\] Our paper on mobile foundation model was conditionally accepted by [MobiCom'24](https://www.sigmobile.org/mobicom/2024/)!
 - \[2023-05\] Honored to present one papers at [INFOCOM'23](https://infocom2023.ieee-infocom.org/)! 
 
 ## Selected Publications (* = equal contributions)
+
+- \[Conditionally accepted by [WWW'24](https://www2024.thewebconf.org/)] **Towards Energy-efficient Federated Learning via INT8-based
+Training on Mobile DSPs** \[[pdf](https://arxiv.org/pdf/2308.14363.pdf)\]
+
+**Jinliang Yuan**, Shangguang Wang, Hongyu li, Daliang Xu, Yuanchun Li, Mengwei Xu, Xuanzhe Liu
 
 - \[Conditionally accepted by [MobiCom'24](https://www.sigmobile.org/mobicom/2024/)] **Rethinking Mobile AI Ecosystem in the LLM Era** \[[pdf](https://arxiv.org/pdf/2308.14363.pdf)\]
 
@@ -30,6 +36,10 @@ Search over Heterogeneous Mobile Devices** \[[pdf](https://ieeexplore.ieee.org/s
 - \[[ISSRE'23](https://issre.github.io/2023/)\] **Evaluating and Enhancing the Robustness of Federated Learning System against Realistic Data Corruption** \[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10301246)\]
 
   Chen Yang, Yuanchun Li, Hao Lu, **Jinliang Yuan**, Qibo Sun, Shangguang Wang, Mengwei Xu
+
+- \[[TMC'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)\] **Communication-Efficient Satellite-Ground Federated Learning through Progressive Weight Quantization** \[[pdf](https://ieeexplore.ieee.org/document/10415259)\]
+
+  Chen Yang\*, **Jinliang Yuan\***, Yaozong Wu, Qibo Sun, Ao Zhou, Shangguang Wang, Mengwei Xu
 
 ## Academic Service
 - PC member: \[[NCSC-edge'22](https://conf.ccf.org.cn/web/api/m9644563065535242241649985902214.action)\] 
