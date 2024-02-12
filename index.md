@@ -14,7 +14,7 @@ Email: yuanjinliang AT bupt DOT edu DOT cn
 - \[Conditionally accepted by [WWW'24](https://www2024.thewebconf.org/)] **Towards Energy-efficient Federated Learning via INT8-based
 Training on Mobile DSPs** \[[pdf](https://arxiv.org/pdf/2308.14363.pdf)\]
 
-**Jinliang Yuan**, Shangguang Wang, Hongyu li, Daliang Xu, Yuanchun Li, Mengwei Xu, Xuanzhe Liu
+  **Jinliang Yuan**, Shangguang Wang, Hongyu li, Daliang Xu, Yuanchun Li, Mengwei Xu, Xuanzhe Liu
 
 - \[Conditionally accepted by [MobiCom'24](https://www.sigmobile.org/mobicom/2024/)] **Rethinking Mobile AI Ecosystem in the LLM Era** \[[pdf](https://arxiv.org/pdf/2308.14363.pdf)\]
 
