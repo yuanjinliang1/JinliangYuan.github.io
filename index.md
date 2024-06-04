@@ -5,18 +5,17 @@ I'm a postdoctor at Tsinghua University, working with [Prof. Yunhao Liu](http://
 Email: yuanjinliang AT bupt DOT edu DOT cn
 
 ## News!
-- \[2024-01\] Our paper on energy-efficient federated learning was conditionally accepted by [WWW'24](https://www2024.thewebconf.org/)!
-- \[2023-11\] Our paper on mobile foundation model was conditionally accepted by [MobiCom'24](https://www.sigmobile.org/mobicom/2024/)!
-- \[2023-05\] Honored to present one papers at [INFOCOM'23](https://infocom2023.ieee-infocom.org/)! 
+- \[2024-05\] Our paper on mobile foundation model was accepted by [MobiCom'24](https://www.sigmobile.org/mobicom/2024/)!
+- \[2024-05\] Honored to present one paper at [WWW'24](https://www2024.thewebconf.org/)! 
 
 ## Selected Publications (* = equal contributions)
 
-- \[Conditionally accepted by [WWW'24](https://www2024.thewebconf.org/)] **Towards Energy-efficient Federated Learning via INT8-based
+- \[Accepted by [WWW'24](https://www2024.thewebconf.org/)] **Towards Energy-efficient Federated Learning via INT8-based
 Training on Mobile DSPs** \[[pdf](https://arxiv.org/pdf/2308.14363.pdf)\]
 
   **Jinliang Yuan**, Shangguang Wang, Hongyu li, Daliang Xu, Yuanchun Li, Mengwei Xu, Xuanzhe Liu
 
-- \[Conditionally accepted by [MobiCom'24](https://www.sigmobile.org/mobicom/2024/)] **Rethinking Mobile AI Ecosystem in the LLM Era** \[[pdf](https://arxiv.org/pdf/2308.14363.pdf)\]
+- \[Accepted by [MobiCom'24](https://www.sigmobile.org/mobicom/2024/)] **Rethinking Mobile AI Ecosystem in the LLM Era** \[[pdf](https://arxiv.org/pdf/2308.14363.pdf)\]
 
   **Jinliang Yuan\***, Chen Yang\*, Dongqi Cai\*, Shihe Wang, Xin Yuan, Zeling Zhang, Xiang Li, Dingge Zhang, Hanzi Mei, Xianqing Jia, Shangguang Wang, Mengwei Xu
 
