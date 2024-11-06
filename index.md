@@ -1,4 +1,4 @@
-## Jinliang Yuan  袁进良
+![image](https://github.com/user-attachments/assets/bdb53f53-dbce-48f8-9507-2080daa39591)## Jinliang Yuan  袁进良
 
 I'm a postdoctor at Tsinghua University, working with [Prof. Yunhao Liu](http://tns.thss.tsinghua.edu.cn/~yunhao/en.html). I received my doctoral and bachelor's degrees from Beijing University of Posts and Telecommunications (BUPT) in 2023 and 2016, co-advised by [Prof. Shangguang Wang](http://www.sguangwang.com/) and [Prof. Mengwei Xu](https://xumengwei.github.io/). Additionally, I feel fortunate to receive remote guidance from [Prof. Yuanchun Li](https://yuanchun-li.github.io/) in at Tsinghua University. Here is my [Curriculum Vitae](/cv-yuan.pdf).
 
@@ -21,6 +21,10 @@ Email: yuanjinliang AT bupt DOT edu DOT cn
 - \[[TMC'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)\] **Communication-Efficient Satellite-Ground Federated Learning through Progressive Weight Quantization** \[[pdf](https://ieeexplore.ieee.org/document/10415259)\]
 
   Chen Yang\*, **Jinliang Yuan\***, Yaozong Wu, Qibo Sun, Ao Zhou, Shangguang Wang, Mengwei Xu
+  
+- \[[ICPADS'24](https://attend.ieee.org/icpads/)\] **Flexible LAN-WAN Orchestration for Communication Efficient Federated Learning over Large-Scale Mobile Devices** \[[pdf](https://attend.ieee.org/icpads/)\]
+
+  **Jinliang Yuan**, Qing Li, Fan Dang, Xiaofang Mu, Hui Qi, Mengwei Xu, and Shangguang Wang
 
 - \[[INFOCOM'23](https://infocom2023.ieee-infocom.org/)\] **Privacy as a Resource in Differentially Private Federated Learning** \[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10228953)\]
 
