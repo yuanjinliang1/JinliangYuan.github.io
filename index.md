@@ -5,11 +5,11 @@ I'm a postdoctor at Tsinghua University, working with [Prof. Yunhao Liu](http://
 Email: yuanjinliang AT tsinghua DOT edu DOT cn
 
 ## News!
-- \[2026-01\] Our paper on embodied intelligence of things was accepted by [Tsinghua Sci. Technol.'26](https://doi.org/10.26599/TST.2025.9010127)!
-- \[2026-03\] Our new survey on foundation models for embodied navigation [survey](https://membodied.github.io/embodied-navigation-survey/)!
+- \[2026-01\] Our paper on **embodied intelligence of things** was accepted by [Tsinghua Sci. Technol.'26](https://doi.org/10.26599/TST.2025.9010127)!
+- \[2026-03\] Our new survey on **foundation models for embodied navigation** [survey](https://membodied.github.io/embodied-navigation-survey/)!
 ## Selected Publications (* = equal contributions)
 
-- \[[Tsinghua Sci. Technol.'26]] **EIoT: Embodied Intelligence of Things** \[[pdf](https://doi.org/10.26599/TST.2025.9010127)\]
+- \[Tsinghua Sci. Technol.'26] **EIoT: Embodied Intelligence of Things** \[[pdf](https://doi.org/10.26599/TST.2025.9010127)\]
 
   Yunhao Liu, Xu Wang, Yunhuai Liu, Kebin Liu, Shuai Tong, **Jinliang Yuan**, Li Liu
 
@@ -72,9 +72,9 @@ Email: yuanjinliang AT tsinghua DOT edu DOT cn
 
 
 ## Academic Service
-- PC member: \[[NCSC-edge'22](https://conf.ccf.org.cn/web/api/m9644563065535242241649985902214.action)\] 
-- Reviewer: \[[TMC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)\] \[[IoTJ](https://ieee-iotj.org/)\] \[[SAGC'22](https://data-com.org/sagc2022/)\] 
-- External reviewer: \[[ICWS'23](https://conferences.computer.org/icws/2023/)\] 
+- PC member: \[NCSC-edge'22] \[MobiCom-EdgeFM'25]
+- Reviewer: \[TMC] \[TSC] \[IoTJ] \[CJE] \[China Communications] \[SAGC'22] 
+- External reviewer: \[ICWS'23]
 
 
 ## Awards
