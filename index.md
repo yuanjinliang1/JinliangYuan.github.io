@@ -13,6 +13,30 @@ Email: yuanjinliang AT tsinghua DOT edu DOT cn
 
   Yunhao Liu, Xu Wang, Yunhuai Liu, Kebin Liu, Shuai Tong, **Jinliang Yuan**, Li Liu
 
+- \[[TMC'26]] **Training with Integer-only Arithmetic: Energy-efficient Federated Learning with Mobile DSP Offloading** \[[pdf](https://ieeexplore.ieee.org/document/11264355)\]
+
+  **Jinliang Yuan**, Daliang Xu, Mengwei Xu, Yuanchun Li, Xuanzhe Liu, Yunhao Liu, Shangguang Wang.
+
+- \[[TMC'25](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)\] **Representation Optimal Matching for Federated Learning With Noisy Labels in Remote Sensing** \[[pdf](https://ieeexplore.ieee.org/document/11318964/)\]
+
+  Xuefeng Jiang, Tian Wen, Sheng Sun, **Jinliang Yuan**, Huashuo Liu, Peng Li, Lvhua Wu, Yuwei Wang, Min Liu.
+
+- \[[UbiComp'25]] **TCM-Align: Curriculum-Aligned MCQ Generation for Traditional Chinese Medicine** \[[pdf](https://dl.acm.org/doi/10.1145/3714394.3756270)\]
+
+  Haimo Lu, Li Liu, **Jinliang Yuan**, Yawen Zheng, Zhenyu Wang, Kebin Liu.
+
+- \[[UbiComp'25]] **Evaluating Large Language Models in Traditional Chinese Medicine with Enhanced Misinformation Detection** \[[pdf](https://dl.acm.org/doi/10.1145/3714394.3756275)\]
+
+  Yawen Zheng, **Jinliang Yuan** , Li Liu, Wenkai Zhao, Zhenyu Wang.
+
+- \[[Satellite'25]] **Towards Real-Time In-Orbit Fusion of Multimodal Remote Sensing Data** \[[pdf](https://www.computer.org/csdl/proceedings-article/satellite/2025/11430424/2eVFL7rjTQk)\]
+
+  Liangjen Hsu, Qing Li, **Jinliang Yuan**.
+
+- \[[TechRxiv'25](https://www.techrxiv.org/)\] **Edge Intelligence from Space: A Survey and Future Challenges** \[[pdf](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176300423.38782373/)\]
+
+  Huashuo Liu, Sheng Sun, Yali Chen, Yuwei Wang, Weiwei Jiang, **Jinliang Yuan**, Chen Yang, Qixun Tang, Junyu Lai, Min Liu, Ke Xu
+
 - \[[MobiCom'24](https://www.sigmobile.org/mobicom/2024/)] **Mobile Foundation Model as Firmware** \[[pdf](https://dl.acm.org/doi/10.1145/3636534.3649361)\]
 
   **Jinliang Yuan\***, Chen Yang\*, Dongqi Cai\*, Shihe Wang, Xin Yuan, Zeling Zhang, Xiang Li, Dingge Zhang, Hanzi Mei, Xianqing Jia, Shangguang Wang, Mengwei Xu
@@ -46,29 +70,6 @@ Email: yuanjinliang AT tsinghua DOT edu DOT cn
   Qipeng Wang\*, Mengwei Xu\*, Chao Jin, Xinran Dong, **Jinliang Yuan**, Xin Jin, Gang Huang, Yunxin Liu, Xuanzhe Liu
 
 
-- \[[TechRxiv'25](https://www.techrxiv.org/)\] **Edge Intelligence from Space: A Survey and Future Challenges** \[[pdf](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176300423.38782373/)\]
-
-  Huashuo Liu, Sheng Sun, Yali Chen, Yuwei Wang, Weiwei Jiang, **Jinliang Yuan**, Chen Yang, Qixun Tang, Junyu Lai, Min Liu, Ke Xu
-
-- \[[TMC'25](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)\] **Representation Optimal Matching for Federated Learning With Noisy Labels in Remote Sensing** \[[pdf](https://ieeexplore.ieee.org/document/11318964/)\]
-
-  Xuefeng Jiang, Tian Wen, Sheng Sun, **Jinliang Yuan**, Huashuo Liu, Peng Li, Lvhua Wu, Yuwei Wang, Min Liu.
-
-- \[[TMC'26]] **Training with Integer-only Arithmetic: Energy-efficient Federated Learning with Mobile DSP Offloading** \[[pdf](https://ieeexplore.ieee.org/document/11264355)\]
-
-  **Jinliang Yuan**, Daliang Xu, Mengwei Xu, Yuanchun Li, Xuanzhe Liu, Yunhao Liu, Shangguang Wang.
-
-- \[[Satellite'25]] **Towards Real-Time In-Orbit Fusion of Multimodal Remote Sensing Data** \[[pdf](https://www.computer.org/csdl/proceedings-article/satellite/2025/11430424/2eVFL7rjTQk)\]
-
-  Liangjen Hsu, Qing Li, **Jinliang Yuan**.
-
-- \[[UbiComp'25]] **TCM-Align: Curriculum-Aligned MCQ Generation for Traditional Chinese Medicine** \[[pdf](https://dl.acm.org/doi/10.1145/3714394.3756270)\]
-
-  Haimo Lu, Li Liu, **Jinliang Yuan**, Yawen Zheng, Zhenyu Wang, Kebin Liu.
-
-- \[[UbiComp'25]] **Evaluating Large Language Models in Traditional Chinese Medicine with Enhanced Misinformation Detection** \[[pdf](https://dl.acm.org/doi/10.1145/3714394.3756275)\]
-
-  Yawen Zheng, **Jinliang Yuan** , Li Liu, Wenkai Zhao, Zhenyu Wang.
 
 ## Academic Service
 - PC member: \[[NCSC-edge'22](https://conf.ccf.org.cn/web/api/m9644563065535242241649985902214.action)\] 
