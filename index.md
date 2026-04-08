@@ -5,10 +5,13 @@ I'm a postdoctor at Tsinghua University, working with [Prof. Yunhao Liu](http://
 Email: yuanjinliang AT tsinghua DOT edu DOT cn
 
 ## News!
-- \[2024-05\] Our paper on mobile foundation model was accepted by [MobiCom'24](https://www.sigmobile.org/mobicom/2024/)!
-- \[2024-05\] Honored to present one paper at [WWW'24](https://www2024.thewebconf.org/)!
-- \[2024-10\] Honored to present one paper at [ICPADS'24](https://attend.ieee.org/icpads/)!
+- \[2026-01\] Our paper on embodied intelligence of things was accepted by [Tsinghua Sci. Technol.'26](https://doi.org/10.26599/TST.2025.9010127)!
+- \[2026-03\] Our new survey on foundation models for embodied navigation [survey](https://membodied.github.io/embodied-navigation-survey/)!
 ## Selected Publications (* = equal contributions)
+
+- \[[Tsinghua Sci. Technol.'26](https://www.sciopen.com/journal/1007-0214)\] **EIoT: Embodied Intelligence of Things** \[[pdf](https://doi.org/10.26599/TST.2025.9010127)\]
+
+  Yunhao Liu, Xu Wang, Yunhuai Liu, Kebin Liu, Shuai Tong, **Jinliang Yuan**, Li Liu
 
 - \[[MobiCom'24](https://www.sigmobile.org/mobicom/2024/)] **Mobile Foundation Model as Firmware** \[[pdf](https://dl.acm.org/doi/10.1145/3636534.3649361)\]
 
@@ -22,7 +25,7 @@ Email: yuanjinliang AT tsinghua DOT edu DOT cn
 
   Chen Yang\*, **Jinliang Yuan\***, Yaozong Wu, Qibo Sun, Ao Zhou, Shangguang Wang, Mengwei Xu
   
-- \[[ICPADS'24](https://attend.ieee.org/icpads/)\] **Flexible LAN-WAN Orchestration for Communication Efficient Federated Learning over Large-Scale Mobile Devices** \[[pdf](https://attend.ieee.org/icpads/)\]
+- \[[ICPADS'24](https://attend.ieee.org/icpads/)\] **Flexible LAN-WAN Orchestration for Communication Efficient Federated Learning over Large-Scale Mobile Devices** \[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10872588)\]
 
   **Jinliang Yuan**, Qing Li, Fan Dang, Xiaofang Mu, Hui Qi, Mengwei Xu, and Shangguang Wang
 
@@ -41,6 +44,31 @@ Email: yuanjinliang AT tsinghua DOT edu DOT cn
 - \[[MobiSys'22](https://www.sigmobile.org/mobisys/2022/)\] **Melon: Breaking the Memory Wall for Resource-Efficient On-Device Machine Learning** \[[pdf](https://xumengwei.github.io/files/MobiSys22-Melo.pdf)\]
 
   Qipeng Wang\*, Mengwei Xu\*, Chao Jin, Xinran Dong, **Jinliang Yuan**, Xin Jin, Gang Huang, Yunxin Liu, Xuanzhe Liu
+
+
+- \[[TechRxiv'25](https://www.techrxiv.org/)\] **Edge Intelligence from Space: A Survey and Future Challenges** \[[pdf](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176300423.38782373/)\]
+
+  Huashuo Liu, Sheng Sun, Yali Chen, Yuwei Wang, Weiwei Jiang, **Jinliang Yuan**, Chen Yang, Qixun Tang, Junyu Lai, Min Liu, Ke Xu
+
+- \[[TMC'25](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)\] **Representation Optimal Matching for Federated Learning With Noisy Labels in Remote Sensing** \[[pdf](https://ieeexplore.ieee.org/document/11318964/)\]
+
+  Xuefeng Jiang, Tian Wen, Sheng Sun, **Jinliang Yuan**, Huashuo Liu, Peng Li, Lvhua Wu, Yuwei Wang, Min Liu.
+
+- \[[TMC'26]] **Training with Integer-only Arithmetic: Energy-efficient Federated Learning with Mobile DSP Offloading** \[[pdf](https://ieeexplore.ieee.org/document/11264355)\]
+
+  **Jinliang Yuan**, Daliang Xu, Mengwei Xu, Yuanchun Li, Xuanzhe Liu, Yunhao Liu, Shangguang Wang.
+
+- \[[Satellite'25]] **Towards Real-Time In-Orbit Fusion of Multimodal Remote Sensing Data** \[[pdf](https://www.computer.org/csdl/proceedings-article/satellite/2025/11430424/2eVFL7rjTQk)\]
+
+  Liangjen Hsu, Qing Li, **Jinliang Yuan**.
+
+- \[[UbiComp'25]] **TCM-Align: Curriculum-Aligned MCQ Generation for Traditional Chinese Medicine** \[[pdf](https://dl.acm.org/doi/10.1145/3714394.3756270)\]
+
+  Haimo Lu, Li Liu, **Jinliang Yuan**, Yawen Zheng, Zhenyu Wang, Kebin Liu.
+
+- \[[UbiComp'25]] **Evaluating Large Language Models in Traditional Chinese Medicine with Enhanced Misinformation Detection** \[[pdf](https://dl.acm.org/doi/10.1145/3714394.3756275)\]
+
+  Yawen Zheng, **Jinliang Yuan** , Li Liu, Wenkai Zhao, Zhenyu Wang.
 
 ## Academic Service
 - PC member: \[[NCSC-edge'22](https://conf.ccf.org.cn/web/api/m9644563065535242241649985902214.action)\] 
